@@ -3,7 +3,7 @@
 
 # Object of this test
 
-There are four classes in it. 1.Lexus, 2.GTR, 3.Porsche, 4. Lamborghini. There are 100 images for each car. Therefore total 400 images for training. So let us classify them into one of the classes automatically by deep learning. It is a classification problem "one out of four".  As there is a little data which is available, we need transfer-learnig. In TF Hub, ResNet 152 is available for feature extraction.  Based on this model, we achieve higher accracy which is closer to 90% for validation data. Each class has 20 images for validation.  
+There are four classes in it. 1.Lexus, 2.GTR, 3.Porsche, 4. Lamborghini. There are 100 images for each car. Therefore total 400 images for training. So let us classify them into one of the classes automatically by deep learning. It is a classification problem "one out of four".  As there is a little data which is available, we need transfer-learnig. In TensorFlow, ResNet is available for feature extraction.  Based on this model, we achieve higher accracy which is beyond 80% for validation data. Each class has 20 images for validation.  
 
 
 
