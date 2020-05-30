@@ -1,4 +1,4 @@
-# Car-classifier-by-transfer-learning-with-ResNet152
+# Car-classifier-by-transfer-learning-with-ResNet
 
 
 # Object of this test
